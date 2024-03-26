@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/odin-calculator.iml" filepath="$PROJECT_DIR$/.idea/odin-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../odin-rps/.idea/odin-rps.iml" filepath="$PROJECT_DIR$/../odin-rps/.idea/odin-rps.iml" />
     </modules>
   </component>
 </project>
