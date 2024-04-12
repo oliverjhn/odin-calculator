@@ -18,11 +18,19 @@ body {
 }
 
 #calc-result {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
   margin: 30px;
   padding-right: 20px;
   padding-left: 20px;
   flex-basis: 100px;
   /*flex-grow: 1;*/
+}
+
+#calc-result-text {
+  font-size: 40px;
+  text-align: right;
 }
 
 .row {
