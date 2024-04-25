@@ -76,7 +76,7 @@ function operate(operator) {
   } else {
     operator = currentEquation.priorOperator;
   }
-  //*Determines if the numbers can be operated of
+  //*Determines if the numbers can be operated on
   let canOperate = false;
   if (currentEquation.num1 !== "" && currentEquation.num2 !== "") {
     canOperate = true;
